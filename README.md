@@ -4,7 +4,7 @@
 
 **mknoce.sh** - Make notification's certificate. 
 
-Use this script to create certificate file for the Apple Push Notification Service.
+Use this script to create Apple Push Notification Server certificate.
 
 ### Example
 
