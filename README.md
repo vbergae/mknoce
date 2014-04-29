@@ -4,11 +4,11 @@
 
 **mknoce.sh** - Make notification's certificate. 
 
-Use this script to create Apple Push Notification Server certificate.
+Use this script to create Apple Push Notification Server certificates.
 
 ### Example
 
-	~$ ./mknoce.sh -k ~/certs/DevelopmentCertificates.p12 -c ~/	certs/aps_development.cer -o MyPushDev
+	~$ ./mknoce.sh -k ~/certs/DevelopmentCertificates.p12 -c ~/certs/aps_development.cer -o MyPushDev
 
 Will generate MyPushDev.pem file on the current directory
 
